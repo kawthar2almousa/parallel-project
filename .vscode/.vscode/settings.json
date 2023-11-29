@@ -1,0 +1,9 @@
+{
+    "C_Cpp.errorSquiggles": "enabledIfIncludesResolve",
+    "files.associations": {
+        "windows.h": "c"
+    },
+    "cSpell.words": [
+        "firstprivate"
+    ]
+}
